@@ -1,0 +1,23 @@
+{
+    "level": 1,
+    "name": "Selâmlavlar",
+    "size": 6,
+    "chars": ["m","e","r","a","b","a","s","l","â"],
+    "bonusWords": [],
+    "words": {
+        "meraba": {
+            "id": 0,
+            "chars": ["m","e","r","a","b","a"],
+            "x": [0,1,2,3,4,5],
+            "y": [1,1,1,1,1,1],
+            "description": "Мераба"
+        },
+        "selâm": {
+            "id": 1,
+            "chars": ["s","e","l","â","m"],
+            "x": [1,1,1,1,1],
+            "y": [0,1,2,3,4],
+            "description": "Селям"
+        }
+    }
+}
