@@ -15,9 +15,9 @@ def dashboard(name):
 def checkConnectRequest():
    return System(app).checkConnect(request)
 
-@app.route('/getLevelsCount')
-def getLevelsCountRequest():
-    return Level(app).getLevelsCount(request)
+@app.route('/appInit')
+def appInitRequest():
+    return System(app).appInit(request)
 
 @app.route('/getLevel')
 def getLevelRequest():
@@ -36,4 +36,5 @@ def wordSoundRequest():
     return WordSound(app).wordSound(request)
 
 if __name__ == '__main__':
-    app.run(host='82.146.49.164', port=8005, debug = True)
+    # app.run(host='82.146.49.164', port=8005, debug = True)
+    app.run(host='localhost', port=8005, debug = True)

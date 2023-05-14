@@ -27,6 +27,12 @@ class RequestFactory:
                 "content": content
             }
         return self.makeResponse(obj)
+    
+    def newresponseSuccess(self, content: object):
+        if (content == None):
+            content == {}
+        content['result'] = 0
+        return self.makeResponse(content)
 
     def responseError(self, result: int, description: str):
         obj = {

@@ -1,37 +1,41 @@
 {
-    "level": 3,
+    "levelNumber": 3,
     "name": "Renkler 1",
     "size": 8,
     "chars": ["p","o","r","t","a","q","a","l"],
     "bonusWords": [],
-    "words": {
-        "portaqal": {
+    "words": [
+        {
             "id": 5,
             "chars": ["p","o","r","t","a","q","a","l"],
             "x": [0,1,2,3,4,5,6,7],
             "y": [2,2,2,2,2,2,2,2],
-            "description": "портакъал"
+            "translate": "портакъал",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "qara": {
+        {
             "id": 6,
             "chars": ["q","a","r","a"],
             "x": [2,2,2,2],
             "y": [0,1,2,3],
-            "description": "къара"
+            "translate": "къара",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "aq": {
+        {
             "id": 7,
             "chars": ["a","q"],
             "x": [5,5],
             "y": [1,2],
-            "description": "акъ"
+            "translate": "акъ",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "al": {
+        {
             "id": 8,
             "chars": ["a","l"],
             "x": [6,6],
             "y": [2,3],
-            "description": "ал"
+            "translate": "ал",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         }
-    }
+    ]
 }

@@ -1,23 +1,25 @@
 {
-    "level": 1,
+    "levelNumber": 1,
     "name": "Selâmlavlar",
     "size": 6,
     "chars": ["m","e","r","a","b","a","s","l","â"],
     "bonusWords": [],
-    "words": {
-        "meraba": {
+    "words": [
+        {
             "id": 0,
             "chars": ["m","e","r","a","b","a"],
             "x": [0,1,2,3,4,5],
             "y": [1,1,1,1,1,1],
-            "description": "Мераба"
+            "translate": "Мераба",
+            "voiceoverUrl": ""
         },
-        "selâm": {
+        {
             "id": 1,
             "chars": ["s","e","l","â","m"],
             "x": [1,1,1,1,1],
             "y": [0,1,2,3,4],
-            "description": "Селям"
+            "translate": "Селям",
+            "voiceoverUrl": "82.146.49.164:3002/media/selam.wav"
         }
-    }
+    ]
 }

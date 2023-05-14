@@ -1,33 +1,46 @@
 {
-    "level": 6,
+    "levelNumber": 6,
     "name": "Beden azalari 2",
     "size": 6,
     "chars": ["t","i","r","n","a","q","ş","u"],
     "bonusWords": [
-        "qan",
-        "qaş"
+        {
+            "id": 101,
+            "word": "qan",
+            "translate": "къан",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+        },
+        {
+            "id": 102,
+            "word": "qaş",
+            "translate": "къаш",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+        }
     ],
-    "words": {
-        "tirnaq": {
+    "words": [
+        {
             "id": 15,
             "chars": ["t","i","r","n","a","q"],
             "x": [0,1,2,3,4,5],
             "y": [2,2,2,2,2,2],
-            "description": "тырнъакъ"
+            "translate": "тырнъакъ",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "tiş": {
+        {
             "id": 16,
             "chars": ["t","i","ş"],
             "x": [0,0,0],
             "y": [2,3,4],
-            "description": "тиш"
+            "translate": "тиш",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "turaq": {
+        {
             "id": 17,
             "chars": ["t","u","r","a","q"],
             "x": [2,2,2,2,2],
             "y": [0,1,2,3,4],
-            "description": "туракъ"
+            "translate": "туракъ",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         }
-    }
+    ]
 }

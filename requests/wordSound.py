@@ -4,7 +4,7 @@ class WordSound:
     app = None
     request = None
 
-    mediaHost = "82.146.49.164:3002/media/"
+    mediaHost = "http://82.146.49.164:3002/media/"
     
     def __init__(self, app):
         self.app = app

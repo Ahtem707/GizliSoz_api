@@ -1,37 +1,41 @@
 {
-    "level": 7,
+    "levelNumber": 7,
     "name": "Ayvanlar 1",
     "size": 6,
     "chars": ["q","o","y","a","n","t","p","l","a"],
     "bonusWords": [],
-    "words": {
-        "qaplan": {
+    "words": [
+        {
             "id": 18,
             "chars": ["q","a","p","l","a","n"],
             "x": [0,1,2,3,4,5],
             "y": [3,3,3,3,3,3],
-            "description": "къаплан"
+            "translate": "къаплан",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "qoy": {
+        {
             "id": 19,
             "chars": ["q","o","y"],
             "x": [3,4,5],
             "y": [1,1,1],
-            "description": "къой"
+            "translate": "къой",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "at": {
+        {
             "id": 20,
             "chars": ["a","t"],
             "x": [1,1],
             "y": [3,4],
-            "description": "ат"
+            "translate": "ат",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "qoyan": {
+        {
             "id": 21,
             "chars": ["q","o","y","a","n"],
             "x": [4,4,4,4,4],
             "y": [0,1,2,3,4],
-            "description": "къойан"
+            "translate": "къойан",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         }
-    }
+    ]
 }

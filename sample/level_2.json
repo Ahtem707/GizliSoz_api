@@ -1,30 +1,33 @@
 {
-    "level": 2,
+    "levelNumber": 2,
     "name": "Meyvalar",
     "size": 5,
     "chars": ["a","y","v","a","l","m","r","u","t"],
     "bonusWords": [],
-    "words": {
-        "ayva": {
+    "words": [
+        {
             "id": 2,
             "chars": ["a","y","v","a"],
             "x": [0,1,2,3],
             "y": [0,0,0,0],
-            "description": "aйва"
+            "translate": "aйва",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "alma": {
+        {
             "id": 3,
             "chars": ["a","l","m","a"],
             "x": [0,0,0,0],
             "y": [0,1,2,3],
-            "description": "алма"
+            "translate": "алма",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         },
-        "armut": {
+        {
             "id": 4,
             "chars": ["a","r","m","u","t"],
             "x": [0,1,2,3,4],
             "y": [3,3,3,3,3],
-            "description": "армут"
+            "translate": "армут",
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         }
-    }
+    ]
 }
