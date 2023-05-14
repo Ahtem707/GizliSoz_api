@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [1,1,1,1,1,1],
             "translate": "Мераба",
-            "voiceoverUrl": ""
+            "voiceoverUrl": "http://82.146.49.164:3002/media/meraba.wav"
         },
         {
             "id": 1,
@@ -19,7 +19,7 @@
             "x": [1,1,1,1,1],
             "y": [0,1,2,3,4],
             "translate": "Селям",
-            "voiceoverUrl": "82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
         }
     ]
 }

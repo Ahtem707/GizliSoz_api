@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [3,3,3,3,3,3],
             "translate": "къаплан",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/qaplan.wav"
         },
         {
             "id": 19,
@@ -19,7 +19,7 @@
             "x": [3,4,5],
             "y": [1,1,1],
             "translate": "къой",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/qoy.wav"
         },
         {
             "id": 20,
@@ -27,7 +27,7 @@
             "x": [1,1],
             "y": [3,4],
             "translate": "ат",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/at.wav"
         },
         {
             "id": 21,
@@ -35,7 +35,7 @@
             "x": [4,4,4,4,4],
             "y": [0,1,2,3,4],
             "translate": "къойан",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/qoyan.wav"
         }
     ]
 }

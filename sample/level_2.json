@@ -11,7 +11,7 @@
             "x": [0,1,2,3],
             "y": [0,0,0,0],
             "translate": "aйва",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/ayva.wav"
         },
         {
             "id": 3,
@@ -19,7 +19,7 @@
             "x": [0,0,0,0],
             "y": [0,1,2,3],
             "translate": "алма",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/alma.wav"
         },
         {
             "id": 4,
@@ -27,7 +27,7 @@
             "x": [0,1,2,3,4],
             "y": [3,3,3,3,3],
             "translate": "армут",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/armut.wav"
         }
     ]
 }

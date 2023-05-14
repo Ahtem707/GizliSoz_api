@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [1,1,1,1,1,1],
             "translate": "жирафе",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/jirafe.wav"
         },
         {
             "id": 23,
@@ -19,7 +19,7 @@
             "x": [1,1,1],
             "y": [0,1,2],
             "translate": "филь",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/fil.wav"
         },
         {
             "id": 24,
@@ -27,7 +27,7 @@
             "x": [5,5,5,5],
             "y": [0,1,2,3],
             "translate": "деве",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/deve.wav"
         }
     ]
 }

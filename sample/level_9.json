@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [0,0,0,0,0,0],
             "translate": "наргуз",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/narguz.wav"
         },
         {
             "id": 26,
@@ -19,7 +19,7 @@
             "x": [1,2,3,4],
             "y": [2,2,2,2],
             "translate": "ляле",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/lale.wav"
         },
         {
             "id": 27,
@@ -27,7 +27,7 @@
             "x": [3,3,3],
             "y": [0,1,2],
             "translate": "гуль",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/gul.wav"
         }
     ]
 }

@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [1,1,1,1,1,1],
             "translate": "ахдут",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/ahudut.wav"
         },
         {
             "id": 29,
@@ -19,7 +19,7 @@
             "x": [0,0,0,0,0],
             "y": [0,1,2,3,4],
             "translate": "къавун",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/qavun.wav"
         },
         {
             "id": 30,
@@ -27,7 +27,7 @@
             "x": [4,4,4],
             "y": [0,1,2],
             "translate": "дут",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/selam.wav"
+            "voiceoverUrl": "http://82.146.49.164:3002/media/dut.wav"
         }
     ]
 }
