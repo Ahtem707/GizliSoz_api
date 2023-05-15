@@ -11,7 +11,7 @@
             "x": [0,1,2,3],
             "y": [2,2,2,2],
             "translate": "сары",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/sari.wav"
+            "voiceoverFile": "sari.wav"
         },
         {
             "id": 10,
@@ -19,7 +19,7 @@
             "x": [1,1,1,1],
             "y": [1,2,3,4],
             "translate": "мавы",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/mavi.wav"
+            "voiceoverFile": "mavi.wav"
         },
         {
             "id": 11,
@@ -27,7 +27,7 @@
             "x": [3,3,3,3],
             "y": [0,1,2,3],
             "translate": "ешиль",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/esil.wav"
+            "voiceoverFile": "esil.wav"
         }
     ]
 }

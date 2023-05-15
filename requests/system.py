@@ -10,7 +10,7 @@ class System:
         self.reqFactory = RequestFactory(app)
         
     def checkConnect(self, request):
-        return self.reqFactory.responseSuccess(None)
+        return self.reqFactory.newresponseSuccess(None)
     
     def appInit(self, request):
         if request.method!= 'GET':
@@ -37,6 +37,7 @@ class System:
         ]
         levelsCount = len(findFiles("./sample/","level_"))
         obj = {
+            "voiceoverHost": "http://82.146.49.164:3002/media/",
             "translationLangs": translationLangs,
             "voiceoverActors": voiceoverActors,
             "levelsCount": levelsCount

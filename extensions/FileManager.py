@@ -1,5 +1,6 @@
 import json
 import os
+from typing import List
 
 def getJson(filePath: str):
     try:
@@ -11,8 +12,8 @@ def getJson(filePath: str):
     except:
         return None
     
-def findFiles(folderPath: str, filePattern: str) -> [str]:
-    pathFiles: [str] = []
+def findFiles(folderPath: str, filePattern: str) -> List[str]:
+    pathFiles: List[str] = []
     for root, dirs, files in os.walk(folderPath):
         for file in files:
             if file.startswith(filePattern) and file.endswith(".json"):

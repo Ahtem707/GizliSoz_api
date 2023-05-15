@@ -29,8 +29,7 @@ class RequestFactory:
         return self.makeResponse(obj)
     
     def newresponseSuccess(self, content: object):
-        if (content == None):
-            content == {}
+        if (content == None): content = {}
         content['result'] = 0
         return self.makeResponse(content)
 

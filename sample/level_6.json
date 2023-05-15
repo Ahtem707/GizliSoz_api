@@ -8,13 +8,13 @@
             "id": 101,
             "word": "qan",
             "translate": "къан",
-            "voiceoverUrl": ""
+            "voiceoverFile": ""
         },
         {
             "id": 102,
             "word": "qaş",
             "translate": "къаш",
-            "voiceoverUrl": ""
+            "voiceoverFile": ""
         }
     ],
     "words": [
@@ -24,7 +24,7 @@
             "x": [0,1,2,3,4,5],
             "y": [2,2,2,2,2,2],
             "translate": "тырнъакъ",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/tirnaq.wav"
+            "voiceoverFile": "tirnaq.wav"
         },
         {
             "id": 16,
@@ -32,7 +32,7 @@
             "x": [0,0,0],
             "y": [2,3,4],
             "translate": "тиш",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/tis.wav"
+            "voiceoverFile": "tis.wav"
         },
         {
             "id": 17,
@@ -40,7 +40,7 @@
             "x": [2,2,2,2,2],
             "y": [0,1,2,3,4],
             "translate": "туракъ",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/turaq.wav"
+            "voiceoverFile": "turaq.wav"
         }
     ]
 }

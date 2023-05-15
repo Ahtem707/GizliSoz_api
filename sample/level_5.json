@@ -11,7 +11,7 @@
             "x": [0,1,2,3,4,5],
             "y": [0,0,0,0,0,0],
             "translate": "къурсакъ",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/qursaq.wav"
+            "voiceoverFile": "qursaq.wav"
         },
         {
             "id": 13,
@@ -19,7 +19,7 @@
             "x": [3,3,3,3,3],
             "y": [0,1,2,3,4],
             "translate": "сакъал",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/saqal.wav"
+            "voiceoverFile": "saqal.wav"
         },
         {
             "id": 14,
@@ -27,7 +27,7 @@
             "x": [5,5,5,5,5],
             "y": [0,1,2,3,4],
             "translate": "къулакъ",
-            "voiceoverUrl": "http://82.146.49.164:3002/media/qulaq.wav"
+            "voiceoverFile": "qulaq.wav"
         }
     ]
 }
