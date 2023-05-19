@@ -20,18 +20,18 @@ class System:
             {
                 'code': 'en',
                 'value': 'English',
-                'isDefault': True
+                'isDefault': False
             },
             {
                 'code': 'ru',
                 'value': 'Русский',
-                'isDefault': False
+                'isDefault': True
             }
         ]
         voiceoverActors = [
             {
                 'code': 'ahtemS',
-                'value': 'Aхтем',
+                'value': 'Ahtem',
                 'isDefault': True
             }
         ]

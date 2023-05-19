@@ -21,6 +21,9 @@ def appInitRequest():
 def getLevelRequest():
     return Level(app).getLevel(request)
 
+@app.route('/getLevels')
+def getLevelsRequest():
+    return Level(app).getLevels(request)
+
 if __name__ == '__main__':
-    # app.run(host='82.146.49.164', port=8005, debug = True)
     app.run(host='localhost', port=8005, debug = True)
